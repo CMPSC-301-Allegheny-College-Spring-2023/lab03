@@ -1,6 +1,6 @@
 # Date: 13 Feb 2023
 # Lab03: Gene Expression Analysis
-# Name: Add your name here 
+# Name: Add Your Name Here 
 
 # Please note: You will not have to edit this code in order to run it. This assignment does not assume that you understand the science behind the plots -- this work is an exercise in being able to infer patters or trends from an exploratory analysis. 
 

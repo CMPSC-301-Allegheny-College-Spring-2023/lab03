@@ -30,7 +30,7 @@
     #   options:
     #     count: 400
     #     exact: false
-    - description: Complete all TODOs, remove the TODO markers in the reflection.md
+    - description: Complete all TODOs, remove the TODO markers in the geneExpAnalysis.r
       check: MatchFileFragment
       options:
         fragment: TODO
