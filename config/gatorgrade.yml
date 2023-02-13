@@ -23,7 +23,7 @@
         exact: true
 
 - src/geneExpAnalysis.r:
-    - description: Ensure that geneExpAnalysis.r file exists in the writing/ directory
+    - description: Ensure that geneExpAnalysis.r file exists in the src/ directory
       check: ConfirmFileExists
     # - description: Write a minimum number of meaningful words in the reflection
     #   check: CountFileWords
