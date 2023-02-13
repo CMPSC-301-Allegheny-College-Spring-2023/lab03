@@ -29,7 +29,7 @@ When undergoing a project in data science, there will be computer code to write 
 
 ## Part 1: Understanding the R Code and Making Sense of the Output
 
-Imagine that you are discussing the code and its output with someone who is new to the project. It is your task to explain to them what each part of the code is doing and what knowledge it brings. In deliverable you are to explain in clear and meaningful language what the code is doing and how to make some sense of its output.
+Imagine that you are discussing the code and its output with someone who is new to the project. It is your task to explain to them what each part of the code is doing and what knowledge it brings. In this deliverable you are to explain in clear and meaningful language what the code is doing and how to make some sense of its output. Note, it is likely that the science behind the analysis will be complicated to you. Do not worry about this level of the project -- here we are only concerned with the code and the potential indications of non-random outcomes from the data.
 
 ### Questions
 
