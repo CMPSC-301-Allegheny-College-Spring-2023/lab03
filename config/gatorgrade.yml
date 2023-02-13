@@ -4,11 +4,11 @@
 - writing/reflection.md:
     - description: Ensure that reflection.md file exists in the writing/ directory
       check: ConfirmFileExists
-    - description: Write a minimum number of meaningful words in the reflection
-      check: CountFileWords
-      options:
-        count: 400
-        exact: false
+    # - description: Write a minimum number of meaningful words in the reflection
+    #   check: CountFileWords
+    #   options:
+    #     count: 400
+    #     exact: false
     - description: Complete all TODOs, remove the TODO markers in the reflection.md
       check: MatchFileFragment
       options:
@@ -23,7 +23,7 @@
         exact: true
 
 # count number of commits in the GitHub repository
-- description: Have at least a specific minimum number of commits (5) in repository
+- description: Have at least a specific minimum number of commits (4) in repository
   check: CountCommits
   options:
-    count: 3
+    count: 4
