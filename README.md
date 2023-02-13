@@ -19,7 +19,7 @@ The main goals of this work include the following.
 
 ## Reading Assignment
 
-Part of the motivation for this lab may be found in the YouTube video that discusses the gene expressions of Planarian worms at the following (link)[https://www.youtube.com/watch?v=roZeOBZAa2Q].
+Part of the motivation for this lab may be found in the YouTube video that discusses the gene expressions of Planarian worms at the following [link](https://www.youtube.com/watch?v=roZeOBZAa2Q).
 
 Much of the knowledge that we have about the curious genetics of the stem cell function in these organisms was the result of gene expression analysis. Interested readers are invited to learn more about the biology of stem cell growth and regeneration in Planarians from S ́anchez et al [1].
 
